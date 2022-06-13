@@ -1,2 +1,2 @@
-# Tuples
+CLASS NOTES
 assignments
